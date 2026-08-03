@@ -225,7 +225,7 @@ require (
 	github.com/fsnotify/fsnotify v1.10.1
 	github.com/fwcd/tree-sitter-kotlin v0.0.0-20260411204054-55622a49bd59
 	github.com/gofrs/flock v0.13.0
-	github.com/gomlx/go-huggingface v0.4.0
+	github.com/gomlx/go-huggingface v0.4.1
 	github.com/google/go-github/v88 v88.0.0
 	github.com/google/uuid v1.6.0
 	github.com/gortexhq/gcx-go v0.1.0
@@ -286,7 +286,7 @@ require (
 	golang.org/x/text v0.40.0
 	golang.org/x/tools v0.48.0
 	gopkg.in/yaml.v3 v3.0.1
-	modernc.org/sqlite v1.54.0
+	modernc.org/sqlite v1.55.0
 	pgregory.net/rapid v1.3.0
 )
 
@@ -327,10 +327,10 @@ require (
 	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
-	github.com/gomlx/compute v0.0.0-20260716164435-04857206aff7 // indirect
+	github.com/gomlx/compute v0.1.0 // indirect
 	github.com/gomlx/exceptions v0.0.3 // indirect
-	github.com/gomlx/go-xla v0.3.0 // indirect
-	github.com/gomlx/gomlx v0.28.0 // indirect
+	github.com/gomlx/go-xla v0.4.0 // indirect
+	github.com/gomlx/gomlx v0.28.1 // indirect
 	github.com/gomlx/onnx-gomlx v0.5.0 // indirect
 	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/google/jsonschema-go v0.4.3 // indirect
